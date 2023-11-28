@@ -116,3 +116,6 @@ To remove your environemnt, I used the following command
 conda deactivate ragna-dev
 conda remove --name ragna-dev --all
 ```
+
+Made with ❤️ by DevRel
+
